@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://yanminchan.com/sitemap.xml
+Host: https://yanminchan.com
