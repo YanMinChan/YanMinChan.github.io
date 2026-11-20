@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yanminchan.github.io/sitemap.xml
+Sitemap: https://yanminchan.github.io/sitemap/sitemap-index.xml
 Host: https://yanminchan.github.io
